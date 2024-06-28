@@ -1,4 +1,4 @@
-# Content Engine: Document Query Chatbot
+# Content Engine: Document Query Chatbot by Saurabh Saindhane
 
 This is a Streamlit application that functions as a chatbot to query documents stored in the `data` directory.
 
