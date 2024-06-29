@@ -40,6 +40,4 @@ LangChain is a powerful framework designed to facilitate the development of appl
 - Run the Streamlit app.
 - Enter your query in the text input and click `Send`.
 
-## License
 
-[MIT](LICENSE)
