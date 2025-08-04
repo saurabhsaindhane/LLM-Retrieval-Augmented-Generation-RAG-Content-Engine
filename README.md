@@ -13,10 +13,7 @@ LangChain is a powerful framework designed to facilitate the development of appl
 ## Installation
 
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/your-username/document-query-chatbot.git
-    cd document-query-chatbot
-    ```
+ 
 
 2. Install the required packages:
     ```sh
